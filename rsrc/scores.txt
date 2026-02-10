@@ -1,0 +1,10 @@
+# Score Words Time W/M Mode
+1. 1500 25 2:30 10 Normal
+2. 1200 20 3:15 6.15 Normal
+3. 800 15 1:45 8.57 Easy
+4. 600 12 2:00 6 Easy
+5. 400 10 1:30 6.66 Normal
+6. 300 8 2:10 3.69 Easy
+7. 200 5 1:15 4 Hard
+8. 100 3 0:45 4 Easy
+9. 50 2 0:30 4 Hard
